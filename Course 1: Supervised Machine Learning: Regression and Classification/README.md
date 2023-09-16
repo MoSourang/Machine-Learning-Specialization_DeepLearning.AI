@@ -15,8 +15,8 @@ This repository contains my implementation of algorithms from the "Supervised Ma
 - [Binary Classification](./LogisticRegressionBinary/)
 
 ## Regularization
-- [L1 Regularization (Lasso)](./L1Regularization/)
-- [L2 Regularization (Ridge)](./L2Regularization/)
+- [Implementation](./Regularization/)
 
 ### Notes
 This is a personal project and is meant for educational purposes. Feel free to check out the code and provide feedback or suggestions.
+
